@@ -1,4 +1,4 @@
-# [ARDUINO]LED Sync
+# [ARDUINO]Experimental
 
 ## About
 
