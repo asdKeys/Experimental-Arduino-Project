@@ -2,7 +2,7 @@
 
 ## About
 
-3 LED's blinking in order.
+It's experimental.
 
 ## How to Use
 
